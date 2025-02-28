@@ -30,15 +30,15 @@ Users should be able to:
 ### Screenshot
 #### Desktop view:
 <!-- ![](./screenshots/desktop-empty.png) -->
-<img src="screenshots/desktop-empty.png" style="margin-bottom:20px" alt="drawing" width="600"/>
-<img src="screenshots/desktop-error.png" style="margin-bottom:20px"  alt="drawing" width="600"/>
+<img src="screenshots/desktop-empty.png" style="margin-bottom:20px;" alt="drawing" width="600"/>
+<img src="screenshots/desktop-error.png" style="margin-bottom:20px;"  alt="drawing" width="600"/>
 <img src="screenshots/desktop-filled.png" alt="drawing" width="600"/>
 
 #### Mobile view:
 
 <div style="display:flex">
-<img src="screenshots/mobile-empty.png" style="margin-right:40px" alt="drawing" width="250"/>
-<img src="screenshots/mobile-error.png" style="margin-right:40px" alt="drawing" width="250"/>
+<img src="screenshots/mobile-empty.png" style="margin-right:40px;" alt="drawing" width="250"/>
+<img src="screenshots/mobile-error.png" style="margin-right:40px;" alt="drawing" width="250"/>
 <img src="screenshots/mobile-filled.png" alt="drawing" width="250"/>
 </div>
  
