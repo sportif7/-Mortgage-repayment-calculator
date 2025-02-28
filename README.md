@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [URL solution here](https://github.com/sportif7/-Mortgage-repayment-calculator.git)
-- Live Site URL: [live site URL here](https://sportif7.github.io/-Mortgage-repayment-calculator/)
+- Live Site URL: [live site URL here](https://sportif7.github.io/Mortgage-repayment-calculator/)
 
 ## My process
 
