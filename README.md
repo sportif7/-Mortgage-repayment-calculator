@@ -35,10 +35,12 @@ Users should be able to:
 <img src="screenshots/desktop-filled.png" alt="drawing" width="600"/>
 
 #### Mobile view:
+
+<div style="display:flex">
 <img src="screenshots/mobile-empty.png" style="margin-right:40px" alt="drawing" width="250"/>
 <img src="screenshots/mobile-error.png" style="margin-right:40px" alt="drawing" width="250"/>
 <img src="screenshots/mobile-filled.png" alt="drawing" width="250"/>
-
+</div>
  
 ### Links
 
