@@ -30,20 +30,22 @@ Users should be able to:
 ### Screenshot
 #### Desktop view:
 <!-- ![](./screenshots/desktop-empty.png) -->
-<img src="screenshots/desktop-empty.png" style="margin-bottom:20px" alt="drawing" width="600"/>
-<img src="screenshots/desktop-error.png" style="margin-bottom:20px"  alt="drawing" width="600"/>
+<img src="screenshots/desktop-empty.png" style="margin-bottom:20px;" alt="drawing" width="600"/>
+<img src="screenshots/desktop-error.png" style="margin-bottom:20px;"  alt="drawing" width="600"/>
 <img src="screenshots/desktop-filled.png" alt="drawing" width="600"/>
 
 #### Mobile view:
-<img src="screenshots/mobile-empty.png" style="margin-right:40px" alt="drawing" width="250"/>
-<img src="screenshots/mobile-error.png" style="margin-right:40px" alt="drawing" width="250"/>
-<img src="screenshots/mobile-filled.png" alt="drawing" width="250"/>
 
+<div style="display:flex">
+<img src="screenshots/mobile-empty.png" style="margin-right:40px;" alt="drawing" width="250"/>
+<img src="screenshots/mobile-error.png" style="margin-right:40px;" alt="drawing" width="250"/>
+<img src="screenshots/mobile-filled.png" alt="drawing" width="250"/>
+</div>
  
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL solution here](https://github.com/sportif7/-Mortgage-repayment-calculator.git)
+- Live Site URL: [live site URL here](https://sportif7.github.io/Mortgage-repayment-calculator/)
 
 ## My process
 
