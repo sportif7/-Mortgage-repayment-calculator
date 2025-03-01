@@ -98,7 +98,7 @@ function checkTextInput(){
           if(textInputEmpty){
             textInputEl.forEach((el, index)=>{
               if(el.value === ''){
-                  el.parentElement.parentElement.classList.add('red-alert');  
+                  el.parentElement.classList.add('red-alert');  
                 if(index === 0){
                   el.nextElementSibling.children[0].style = "filter: brightness(0) saturate(100%) invert(98%) sepia(96%) saturate(7497%) hue-rotate(177deg) brightness(108%) contrast(104%)";
                 }
@@ -118,7 +118,7 @@ textInputEl.forEach((el, index)=>{
           if(index === 0){
             el.nextElementSibling.children[0].style.color = "var(--slate-700)";
           }
-          el.parentElement.parentElement.classList.remove('red-alert');
+          el.parentElement.classList.remove('red-alert');
         } )
 })
 

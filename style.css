@@ -75,6 +75,10 @@ label{
    font-weight:550;
 }
 
+.inputs-control{
+   position:relative;
+}
+
 .input-wrapper{
    display:block;
    position:relative;
@@ -83,9 +87,10 @@ label{
 .icon-sterling-wrapper{
    position:absolute;
    left:1px;
-   top:1px;
+   top:57px;
    bottom:1px;
    width:43px;
+   height:46.5px;
    border-radius:2px 0 0 2px;
    background-color:var(--slate-100);
    display:flex;
@@ -96,9 +101,10 @@ label{
 .text-years-wrapper{
    position:absolute;
    right:1px;
-   top:1px;
+   top:57px;
    bottom:1px;
    width:73px;
+   height:46.5px;
    border-radius:0 2px 2px 0;
    background-color:var(--slate-100);
    display:flex;
@@ -107,12 +113,14 @@ label{
    color:var(--slate-700);
    font-weight:590;
 }
+
 .icon-percentage-wrapper{
    position:absolute;
    right:1px;
-   top:1px;
+   top:57px;
    bottom:1px;
    width:53px;
+   height:46.5px;
    border-radius:0 2px 2px 0;
    background-color:var(--slate-100);
    display:flex;
